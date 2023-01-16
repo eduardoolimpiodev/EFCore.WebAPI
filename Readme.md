@@ -29,12 +29,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/ or empty.
 There're not settings exactly, only files to guide you understand a little bit more about EF Core
 
 ```
-## Donation
 
-If you liked my work, [subscribe on youtube](https://www.youtube.com/user/ozirispc?sub_confirmation=1)
 
-## License
-
-This theme is free and open source software, distributed under the The MIT License. So feel free to use this files on your site without linking back to me or using a disclaimer.
 
 
